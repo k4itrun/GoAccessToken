@@ -1,3 +1,5 @@
+# Go Access Token
+
 Obtain the token using the email and password of a user on discord
 ```
 go run main.go 
